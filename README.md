@@ -3,6 +3,12 @@
 Taskify is a simple and elegant **Flask-based task management web application**, built with Python, Flask, SQLAlchemy, and Jinja2 templates.  
 It allows you to create, update, and delete todos, manage your user profile, and features a stylish login form with Lottie animations.
 
+![Static Badge](https://img.shields.io/badge/flask-%23000000)  ![Static Badge](https://img.shields.io/badge/Python%203-%23000000)  ![Static Badge](https://img.shields.io/badge/SQLAlchemy-%23000000)  ![Static Badge](https://img.shields.io/badge/Bootstrap%204-%23000000)   ![Static Badge](https://img.shields.io/badge/HTML-%23000000)  ![Static Badge](https://img.shields.io/badge/CSS-%23000000)  ![Static Badge](https://img.shields.io/badge/DataBase-%23000000)  ![Static Badge](https://img.shields.io/badge/Jinja2-%23000000)
+
+
+
+
+
 ---
 
 ## 🌟 Features
@@ -127,3 +133,8 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 Shivam Sharma
 Built with ❤️ using Python & Flask.
 Feel free to fork, open issues, or submit pull requests!
+
+
+
+
+
